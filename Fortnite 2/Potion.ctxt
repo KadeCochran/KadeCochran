@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Potion
+comment1.params=ex\ why
+comment1.target=Potion(int,\ int)
+comment2.params=
+comment2.target=Potion()
+comment3.params=page
+comment3.target=void\ draw(java.awt.Graphics)
+comment4.params=
+comment4.target=int\ getXLocation()
+comment5.params=
+comment5.target=int\ getYLocation()
+comment6.params=
+comment6.target=int\ getX()
+comment7.params=
+comment7.target=int\ getY()
+comment8.params=
+comment8.target=int\ getRightSide()
+comment9.params=
+comment9.target=int\ getBottomSide()
+numComments=10
